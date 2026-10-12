@@ -1,0 +1,15 @@
+# Build output
+target/
+bin/
+out/
+
+# IDE files (the project opens from pom.xml in any IDE)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# macOS
+.DS_Store
